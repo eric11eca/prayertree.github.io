@@ -1,8 +1,8 @@
 title: Prayer Tree
 description: Prayer Tree is a prayer managing tool
-show_downloads: true
-google_analytics:
 github:
   repository_url: https://github.com/eric11eca/PrayerTree
   zip_url: https://github.com/eric11eca/PrayerTree/prayer-tree-windows-installer.zip
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
