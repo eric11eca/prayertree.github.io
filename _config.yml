@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
-description: Minimal is a theme for GitHub Pages.
+title: Prayer Tree
+description: Prayer Tree is a prayer managing tool
 show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
