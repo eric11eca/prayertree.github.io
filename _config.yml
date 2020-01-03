@@ -2,4 +2,6 @@ title: Prayer Tree
 description: Prayer Tree is a prayer managing tool
 show_downloads: true
 google_analytics:
+github:
+  zip_url: http://example.com/download.zip
 theme: jekyll-theme-cayman
